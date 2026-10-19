@@ -1,0 +1,8 @@
+# Input data and generated outputs are not part of the code repository.
+data/
+results/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+.DS_Store
